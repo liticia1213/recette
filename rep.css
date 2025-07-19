@@ -1,0 +1,99 @@
+body{
+  background-color:  hsl(30, 54%, 90%);
+  
+}
+img{
+  width: 620px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+ position: relative;
+ top: 15px;
+}
+.recw{
+  background-color: white;
+  width: 650px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+p{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 3%;
+    margin-top: -10px;
+    
+}
+h1{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left: 4%;
+
+}
+.recp{
+  background-color: hsl(330, 100%, 98%);
+ width: 600px;
+ height:150px ;
+  margin: 0 auto;
+  border-radius: 10px;
+ margin-top: 5%;
+}
+h3{
+ font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  padding-left: 8%;
+  color: hsl(332, 51%, 32%);
+  margin-left: 10px;
+  
+   
+}
+ul.pink li::marker {
+  color:hsl(332, 51%, 32%) ;
+}
+ul li{
+  padding-left: 20px;
+}
+ul{
+  margin-left: 30px;
+}
+.pink{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+h2{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left: 4%;
+  color: hsl(14, 45%, 36%);
+
+}
+ul.brown li::marker {
+  color:hsl(14, 45%, 36%) ;
+}
+.brown{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+ol.bbrown li::marker {
+  color:hsl(14, 45%, 36%) ;
+  font-weight: bold;
+ 
+}
+ol li{
+  padding-left: 20px;
+}
+table{
+  border-collapse: separate;
+  border-spacing: 200px 20px;
+ 
+}
